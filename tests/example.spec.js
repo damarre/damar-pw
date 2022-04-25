@@ -32,4 +32,3 @@ test('example test', async () => {
   // close app
   await electronApp.close()
 });
-// export GITLAB_AUTH_TOKEN=glpat-z18PGzjrWP6jULG_SmQz
